@@ -1,6 +1,6 @@
 /* BACKEND GOOGLE APPS SCRIPT. Jangan unggah file ini ke GitHub publik jika berisi token asli. */
-const SPREADSHEET_ID = 'GANTI_DENGAN_ID_SPREADSHEET';
-const DRIVE_FOLDER_ID = 'GANTI_DENGAN_ID_FOLDER_DRIVE';
+const SPREADSHEET_ID = '16lFhbAVCZacX7lPgt9Smzrqgx7JNSXtjNB0YoiR7pcI';
+const DRIVE_FOLDER_ID = '1zjmtn3OrLwfB6_ia-dPTgfCVf4PQ-Gz0';
 const APP_TOKEN = 'GANTI_DENGAN_TOKEN_RAHASIA';
 const SHEET_NAME = 'Inspeksi HSE';
 const HEADERS = ['Timestamp','No. Temuan','Tanggal','Lokasi','Inspector','Kategori','Severity','Status','Deskripsi','Tindakan','Checklist JSON','Checklist Tidak Sesuai','File ID','URL Foto'];
